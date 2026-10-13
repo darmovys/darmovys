@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! I'm Taras.
 
-<!--
-**darmovys/darmovys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌙 About Me
 
-Here are some ideas to get you started:
+- 🇺🇦 I'm a web developer from Ukraine. I build web apps and focus on making them easy to use.
+- 🔭 Right now, I'm working on [**MojaManga**](https://github.com/darmovys/mojamanga-website), a platform for reading manga and comics in Ukrainian.
+- 🧪 I enjoy exploring new technologies and turning ideas into real projects.
+- 🌱 I'm constantly learning full-stack development and getting better at it as I go.
+- 📚 Outside of coding, I read fiction and learn languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/taras-tarasjuk-a9a524304/) [![Telegram](https://img.shields.io/badge/Telegram-0088CC.svg?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/sinonym) 
+
+## 💻 Main Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Base UI](https://img.shields.io/badge/base%20ui-161618.svg?style=for-the-badge&logo=base-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TanStack Start](https://img.shields.io/badge/TanStack%20Start%20%26%20Router-39AF46?style=for-the-badge&logo=tanstack&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-D3481B?style=for-the-badge&logo=tanstack&logoColor=white) ![TanStack Form](https://img.shields.io/badge/TanStack%20Form-3AA3C4?style=for-the-badge&logo=tanstack&logoColor=white) ![TanStack Hotkeys](https://img.shields.io/badge/TanStack%20Hotkeys-FFA216?style=for-the-badge&logo=tanstack&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) [![Elysia](https://img.shields.io/badge/ElysiaJS-7C3AED?style=for-the-badge)](https://elysiajs.com/) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+
+## 🧰 Other Technologies & Tools:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=darmovys&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
